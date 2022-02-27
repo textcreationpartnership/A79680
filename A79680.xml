@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A forme of prayer, used in the King's Chappel, upon Tuesdayes. In these times of trouble and distresse.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79680</idno>
+            <idno type="STC">Wing C4166</idno>
+            <idno type="STC">Thomason E599_10</idno>
+            <idno type="EEBO-CITATION">50805939</idno>
+            <idno type="OCLC">ocm 50805939</idno>
+            <idno type="VID">165611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E599[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A forme of prayer, used in the King's Chappel, upon Tuesdayes. In these times of trouble and distresse.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuell Broun,</publisher>
+                  <pubPlace>Hage :</pubPlace>
+                  <date>Anno M.DC.L [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165611:1" rendition="simple:additions"/>
+            <p>A FORME OF PRAYER, USED IN THE KING'S CHAPPEL, UPON TUESDAYES. In theſe Times of Trouble and Diſtreſſe.</p>
+            <p>HAGE: Printed by SAMUELL BROUN. Anno M.DC.L.</p>
+         </div>
+      </front>
+      <body>
+         <div type="liturgy">
+            <pb facs="tcp:165611:2"/>
+            <pb n="3" facs="tcp:165611:2"/>
+            <head>A FORME OF PRAYER FOR <hi>MORNING AND EVENING.</hi>
+            </head>
+            <div type="part">
+               <argument>
+                  <p>PSAL. CXLIII. II. <hi>Enter not into judgment with thy Servants O Lord, for no flesh is righteous in Thy ſight. &amp;c.</hi> to the
+<hi>Venite</hi> In ſtead whereof This <hi>Pſalme</hi> is ſaid.</p>
+               </argument>
+               <head>PSAL. CXXI.</head>
+               <p n="1">1. <hi>I will lift up mine eyes unto the Hils; from whence commeth my help.</hi>
+               </p>
+               <p n="2">2. My help commeth even from the Lord; who hath made Heaven and Earth.</p>
+               <p n="3">3. <hi>He will not ſuffer thy foot to be moved: and He that keepeth thee, will not ſleep.</hi>
+               </p>
+               <p n="4">
+                  <pb n="4" facs="tcp:165611:3"/>4. Behold He that keepeth Iſraël; shall neither slumber, nor ſleep.</p>
+               <p n="5">5. <hi>The Lord himſelf is thy keeper: the Lord is thy defence upon thy right hand.</hi>
+               </p>
+               <p n="6">6. So that the Sunne shall not burne thee by day; neither the Moone by night.</p>
+               <p n="7">7. <hi>The Lord shall preſerve thee from all evill: yea, it is even He that shall keep thy ſoul.</hi>
+               </p>
+               <p n="8">8. The Lord shall preſerve thy going out, and thy comming in; from this time forth for evermore.</p>
+               <p>℣. <hi>Glory be to the Father, and to the Sonne, and to the Holy Ghoſt.</hi>
+               </p>
+               <p>℟. At it was in the beginning, is now, and ever shalbe; world without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>Then theſe <hi>Pſalmes</hi> following;</p>
+               </argument>
+               <div n="1" type="Psalm">
+                  <head>PSAL. I.</head>
+                  <p n="1">1. <hi>PReſerve the King O God: for in Thee hath he put his truſt.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 16.1.</note>
+                  </p>
+                  <p n="2">2. Heare the Right ô Lord; conſider his Com<g ref="char:EOLhyphen"/>plaint, and hearken unto his Prayer, that goeth not out of feyned lipps.<note place="margin">
+                        <hi>Pſal.</hi> 17.1.</note>
+                  </p>
+                  <p n="3">3. <hi>Let his ſentence come forth from thy Pre<g ref="char:EOLhyphen"/>ſence; and let thine Eyes looke upon the thing that is equall.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 17.2.</note>
+                  </p>
+                  <p n="4">4. O hold Thou up his goings in thy Paths; that his footſteps ſlip not.<note place="margin">
+                        <hi>Pſal.</hi> 17.5.</note>
+                  </p>
+                  <p n="5">5. <hi>He hath called upon Thee O Lord; that Thou mayſt heare him; incline thine Eare unto him, and hearken unto his words.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 17.6.</note>
+                  </p>
+                  <p n="6">6. For his own people are riſen up againſt him; &amp; Tyrants which have not ſet Thee before their eyes, ſeeke after his Soul.<note place="margin">
+                        <hi>Pſal.</hi> 54.4.</note>
+                  </p>
+                  <p n="7">
+                     <pb n="5" facs="tcp:165611:3"/>7. <hi>Shew thy merveilous loving kindnes Thou that art the Saviour of them that put their truſt in Thee; from ſuch as reſiſt thy Right Hand.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+17.7.</note>
+                  </p>
+                  <p n="8">8. Keep him as the apple of an Eye; hide Him under the shadow of thy wings.<note place="margin">
+                        <hi>Pſal.</hi> 17.8.</note>
+                  </p>
+                  <p n="9">9. <hi>From the ungodly that trouble Him; his Enemies compaſſe Him round about, to take away his ſoule.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 17.9.</note>
+                  </p>
+                  <p n="10">10. They that hate Him without a cauſe are more then the haires of his head: they that are his Enemies and would deſtroy Him guiltles, are mighty.</p>
+                  <p n="11">11. <hi>They are incloſed in their own fat; and their mouth ſpeaketh proud things.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+17.10.</note>
+                  </p>
+                  <p n="12">12. They lay waiting in his way on every ſide;<note place="margin">
+                        <hi>Pſal.</hi> 17.11.</note> like as a Lyon that is greedy of his prey, and as it were a Lions whelp lurking in ſecret places.<note place="margin">
+                        <hi>Pſal.</hi> 17.12.</note>
+                  </p>
+                  <p n="13">13. <hi>Vp Lord, diſappoint them, and caſt them down; deliver his ſoule from the ungodly which is a Sword of thine.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 17.13.</note>
+                  </p>
+                  <p n="14">14. For the Sinne of their mouth, &amp; for the workes of their hands, let them be taken in their pride; and why? their Preaching is of Curſing and Lies.<note place="margin">
+                        <hi>Pſal.</hi> 59.12.</note>
+                  </p>
+                  <p n="15">15. <hi>Deliver Him from theſe his Enemies, O Lord: defend Him from them that riſe up againſt Him.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 59.1.</note>
+                  </p>
+                  <p n="16">16. O deliver Him from the wicked Doers; and ſave Him from the bloudthirſty Men.<note place="margin">
+                        <hi>Pſal.</hi>
+59.2.</note>
+                  </p>
+                  <p n="17">17. <hi>Make them afraid even where no feare is, and confound their devices; becauſe Thou, O God, haſt deſpiſed them.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 53.9.</note>
+                  </p>
+                  <p n="18">18. But for the King; Be mercifull unto Him, ô God, be mercifull unto Him, for his Soul truſteth in Thee; and under the shadow of thy wings <pb n="6" facs="tcp:165611:4"/>let his Refuge be, untill this Tiranny be overpaſt.<note place="margin">
+                        <hi>Pſal.</hi> 57.1.</note>
+                  </p>
+                  <p>℣. <hi>Glory be to the Father,</hi> &amp;c.</p>
+                  <p>℟. As it was, &amp;c.</p>
+               </div>
+               <div n="2" type="Psalm">
+                  <head>PSAL. II.</head>
+                  <p n="1">1. <hi>Like as the Hart deſireth the water brookes; ſo longeth my ſoule after Thee O God.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.1.</note>
+                  </p>
+                  <p n="2">2. My ſoule is a thirſt for God, yea even for the living God: when shall I come to appeare before the Preſence of God?<note place="margin">
+                        <hi>Pſal.</hi> 42.2.</note>
+                  </p>
+                  <p n="3">3. <hi>My teares have been my meat day and night; while they daily ſay unto me, where is now thy God?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.3.</note>
+                  </p>
+                  <p n="4">4. Now when I think thereupon, I poure out my heart by my ſelf; for heretofore I did goe out with the Multitude, &amp; brought them forth into the Houſe of God.<note place="margin">
+                        <hi>Pſal.</hi>
+42.4.</note>
+                  </p>
+                  <p n="5">5. <hi>Why art thou ſo full of heavines O my Soule? and why art thou ſo diſquieted within me?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.6.</note>
+                  </p>
+                  <p n="6">6. Put thy truſt in God; for I will yet give him thankes for the help of his Countenance.<note place="margin">
+                        <hi>Pſal.</hi>
+42.7.</note>
+                  </p>
+                  <p n="7">7. <hi>I will ſay unto the God of my ſtrength why haſt Thou forgotten me? and why goe I thus heavily while the Enemy oppreſſeth me?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.11.</note>
+                  </p>
+                  <p n="8">8. My bones are ſmitten a ſunder as with a ſword; while mine Enemies that trouble me, caſt me in the teeth.<note place="margin">
+                        <hi>Pſal.</hi> 42.12.</note>
+                  </p>
+                  <p n="9">9. <hi>Namely, while they ſay daily unto me; where is now thy God?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.13.</note>
+                  </p>
+                  <p n="10">10. But give Thou ſentence with me ô God, and defend my Cauſe againſt the ungodly people; O de<g ref="char:EOLhyphen"/>liver me fr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m the deceitfull and wicked Man.<note place="margin">
+                        <hi>Pſal.</hi> 43.1.</note>
+                  </p>
+                  <p n="11">11. <hi>For Thou art the God of my ſtrength,
+<pb n="7" facs="tcp:165611:4"/>why ha'ſt Thou put me from Thee? and why goe I ſo heavily, while the Enemy oppreſſeth me?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 43.2.</note>
+                  </p>
+                  <p n="12">12. O ſend out they Light &amp; thy Truth, that they may lead me; and bring me unto thy Holy Hill, and to thy Dwelling.<note place="margin">
+                        <hi>Pſal.</hi> 43.3.</note>
+                  </p>
+                  <p n="13">13. <hi>And that I may goe unto the Altar of God, even unto the God of my joy and gladnes; and then upon the Harp will I give thanks unto Thee O God, my God.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+43.4.</note>
+                  </p>
+                  <p n="14">14. Why art thou ſo heavy ô my ſoule? and why art thou ſo diſquieted within me?<note place="margin">
+                        <hi>Pſal.</hi>
+43.5.</note>
+                  </p>
+                  <p n="15">15. <hi>O put thy truſt in God; for I will yet give him thankes, who is the help of my Counte<g ref="char:EOLhyphen"/>nance, and my God.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 43.6.</note>
+                  </p>
+                  <p>℣. Glory be to the Father, &amp;c.</p>
+                  <p>℟. <hi>As it was,</hi> &amp;c.</p>
+               </div>
+               <div n="3" type="Psalm">
+                  <head>PSAL. III.</head>
+                  <p n="1">1. O GOD, Thou ha'ſt caſt us out, and ſcat<g ref="char:EOLhyphen"/>tered us abroad; Thou ha'ſt alſo been diſ<g ref="char:EOLhyphen"/>pleaſed, O turne Thee unto us againe.<note place="margin">
+                        <hi>Pſal.</hi> 60.1.</note>
+                  </p>
+                  <p n="2">2. <hi>Thou ha'ſt moved the Land and divided it; heale the ſores thereof, for it shaketh.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+60.2.</note>
+                  </p>
+                  <p n="3">3. Thou ha'ſt shewed thy people heavy things; Thou ha'ſt given us a drinke of deadly wine.<note place="margin">
+                        <hi>Pſal.</hi>
+60.3.</note>
+                  </p>
+                  <p n="4">4. <hi>Ha'ſt Thou not caſt us out, O God? wilt not Thou, O God goe out with our Hoſtes?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+60.10.</note>
+                  </p>
+                  <p n="5">5. O be Thou our help in Trouble; for vaine is the help of Man.<note place="margin">
+                        <hi>Pſal.</hi> 60.11.</note>
+                  </p>
+                  <p n="6">6. <hi>Through God wee will doe great Acts / for it is He that shall tread down our Enemies.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+60.12.</note>
+                  </p>
+                  <p n="7">7. Thou art my King ô God; ſend help unto Iacob.<note place="margin">
+                        <hi>Pſal.</hi> 44.5.</note>
+                  </p>
+                  <p n="8">8. <hi>Through Thee will wee overthrow our E<g ref="char:EOLhyphen"/>nemies; and in thy Name will wee tread them down that riſe up againſt us.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 44.6.</note>
+                  </p>
+                  <p n="9">
+                     <pb n="8" facs="tcp:165611:5"/>9. For I will not truſt in my Bow; it is not my Sword that shall help me.<note place="margin">
+                        <hi>Pſal.</hi>
+44.7.</note>
+                  </p>
+                  <p n="10">10. <hi>But it is Thou can'ſt ſave us from our E<g ref="char:EOLhyphen"/>nemies; and put them to confuſion that hate us.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 44.8.</note>
+                  </p>
+                  <p n="11">11. But Thou ha'ſt been farre off ô Lord; &amp; ha'ſt not gone forth with our Armies.<note place="margin">
+                        <hi>Pſal.</hi>
+44.10.</note>
+                  </p>
+                  <p n="12">12. <hi>Thou ha'ſt made us to turne our backs upon our Enemies; ſo that they which hate us ſpoile our goods.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 44.11.</note>
+                  </p>
+                  <p n="13">13. Thou ha'ſt ſuffered us to be eaten up like sheep; and ha'ſt ſcattered us among ſtrang Nations.<note place="margin">
+                        <hi>Pſal.</hi> 44.12.</note>
+                  </p>
+                  <p n="14">14. <hi>Thou ha'ſt made us to be rebuked of our Neighbours; and had in deriſion of them that are round about us.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 44.14.</note>
+                  </p>
+                  <p n="15">15. Up Lord, why ſleepeſt Thou? Awake, and be not abſent from us for ever.<note place="margin">
+                        <hi>Pſal.</hi> 44.23.</note>
+                  </p>
+                  <p n="16">16. <hi>Wherfore hideſt Thou thy face; and for<g ref="char:EOLhyphen"/>getteſt our Miſery and Trouble?</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+44.24.</note>
+                  </p>
+                  <p n="17">17. For our ſoule is brought low unto the duſt; and our belly cleaveth unto the ground.<note place="margin">
+                        <hi>Pſal.</hi>
+44.25.</note>
+                  </p>
+                  <p n="18">18. <hi>Ariſe and help us; and deliver us for thy Mercies ſake.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 44.26.</note>
+                  </p>
+                  <p>℣. Glory be to the Father. &amp;c.</p>
+                  <p>℟. <hi>As it was,</hi> &amp;c.</p>
+               </div>
+               <div n="4" type="Psalm">
+                  <head>PSAL. IIII.</head>
+                  <p n="1">1. LORD, how are they increaſed that trouble me: many are they that riſe up againſt me.<note place="margin">
+                        <hi>Pſal.</hi>
+3.1.</note>
+                  </p>
+                  <p n="2">2. <hi>Many one there be that ſay of my ſoule; there is no help for Him in his God.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+3.2.</note>
+                  </p>
+                  <p n="3">3. But Thou ô Lord art my defender; Thou art my worship, and the lifter up of my head.<note place="margin">
+                        <hi>Pſal.</hi>
+3.3.</note>
+                  </p>
+                  <p n="4">4. <hi>I will not be afraid for ten thouſands of people; that have ſet themſelves againſt me round about.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 3.6.</note>
+                  </p>
+                  <p n="5">
+                     <pb n="9" facs="tcp:165611:5"/>5. Up Lord, and help me, ô my God; Thou cans't ſmite all mine Enemies upon the cheek bone, and break the theeth of the ungodly.<note place="margin">
+                        <hi>Pſal.</hi> 3.7.</note>
+                  </p>
+                  <p n="6">6. <hi>Salvation belongeth unto the Lord: let thy Bleſſing be upon the people.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+3.8.</note>
+                  </p>
+                  <p n="7">7. O Lord my God, in Thee have I put my truſt: ſave me from all them that perſecute me, and de<g ref="char:EOLhyphen"/>liver me.<note place="margin">
+                        <hi>Pſal.</hi> 7.1.</note>
+                  </p>
+                  <p n="8">8. <hi>Leaſt he devoure my ſoule like a Lyon; and teare it in pieces while there is none to help.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 7.2.</note>
+                  </p>
+                  <p n="9">9. Why ſtandeſt Thou ſo farre off, ô Lord; and hideſt thy face in the needfull time of trouble?<note place="margin">
+                        <hi>Pſal.</hi> 10.1.</note>
+                  </p>
+                  <p n="10">10. <hi>O let the wickednes of the ungodly come to an end; but guide Thou the juſt.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi>
+7.9.</note>
+                  </p>
+                  <p n="11">11. Be Thou, ô God, a defence for the oppreſſed; even a refuge in due time of trouble.<note place="margin">
+                        <hi>Pſal.</hi> 9.9.</note>
+                  </p>
+                  <p n="12">12. <hi>Have mercy upon me O Lord, conſider the trouble which I ſuffer of them that hate me; Thou that lifteſt me up from the Gates of Death.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 9.13.</note>
+                  </p>
+                  <p n="13">13. How long wil't Thou forget me, ô Lord, for ever! how long wil't Thou hide thy face from me!<note place="margin">
+                        <hi>Pſal.</hi> 13.1.</note>
+                  </p>
+                  <p n="14">14. <hi>How long shall I ſeek counſell in my Soule, and be ſo vexed in my heart! how long shall mine Enemies triumph over me!</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 13.2.</note>
+                  </p>
+                  <p n="15">15. Conſider &amp; heare me ô Lord my God; lighten mine Eyes, that I ſleep not in Death.<note place="margin">
+                        <hi>Pſal.</hi> 13.3.</note>
+                  </p>
+                  <p n="16">16. <hi>Wherfore should the wicked blaſpheme God? while he doth ſay in his heart, tush, Thou God careſt not for it.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 10.14</note>
+                  </p>
+                  <p n="17">17. They murther the Innocent; and put the Help<g ref="char:EOLhyphen"/>leſſe to death.<note place="margin">
+                        <hi>Pſal.</hi> 94.6.</note>
+                  </p>
+                  <p n="18">18. <hi>And yet they ſay, Tush, the Lord shall not ſee; neither shall the God of Iacob regard it.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 94.7.</note>
+                  </p>
+                  <p n="19">
+                     <pb n="10" facs="tcp:165611:6"/>19. Surely Thou haſt ſeene it; for Thou be<g ref="char:EOLhyphen"/>holdeſt ungodlines and wrong.<note place="margin">
+                        <hi>Pſal.</hi>
+94.15.</note>
+                  </p>
+                  <p n="20">20. <hi>That Thou may'ſt take the Matter into thine own hand, the poore committeth himſelf unto Thee; for Thou art the Helper of the friendleſſe.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 94.16.</note>
+                  </p>
+                  <p n="21">21. Break Thou the power of the ungodly and ma<g ref="char:EOLhyphen"/>licious; take away his ungodlines, and Thou shalt find none.<note place="margin">
+                        <hi>Pſal.</hi> 94.17.</note>
+                  </p>
+                  <p n="22">22. <hi>O help the Fatherleſſe and poore unto their Right; that the Man of the Earth may be no more exalted againſt them.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 94.20.</note>
+                  </p>
+                  <p>℣. Glory be to the Father, &amp;c.</p>
+                  <p>℟. <hi>As it was,</hi> &amp;c.</p>
+               </div>
+            </div>
+            <div n="1" type="lesson">
+               <head>The firſt Leſſon.</head>
+               <p>(<hi>At Morn.</hi> GEN. XXVIII. ℣. 10. <hi>unto the End.</hi>)</p>
+               <p>(<hi>At Even.</hi> 11. CHRON. XX. <hi>unto</hi> ℣. XXI.)</p>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>In ſtead of the <hi>Te Deum,</hi> and
+<hi>Magnificat,</hi>
+                  </p>
+               </argument>
+               <head>PSAL. CXXX.</head>
+               <p n="1">1. <hi>OVT of the Deep have I called unto Thee O Lord; Lord heare my voice.</hi>
+               </p>
+               <p n="2">2. O let thine Eares conſider well; the voice of my Complaint.</p>
+               <p n="3">3. <hi>If thou Lord wil't be extreme to mark what is done amiſſe; O Lord, who may abide it?</hi>
+               </p>
+               <p n="4">4. For there is Mercy with Thee; therfore shal't Thou be feared.</p>
+               <p n="5">
+                  <pb n="11" facs="tcp:165611:6"/>5. <hi>I look for the Lord, my ſoule doth waite for Him; in his word is my truſt.</hi>
+               </p>
+               <p n="6">6. My ſoule flieth unto the Lord before the Morn<g ref="char:EOLhyphen"/>ing watch; I ſay, before the Morning watch.</p>
+               <p n="7">7. <hi>O Iſrael, truſt in the Lord, for with the Lord there is Mercy; and with Him is plen<g ref="char:EOLhyphen"/>teous Redemption.</hi>
+               </p>
+               <p n="8">8. And He shall redeeme Iſrael: from all his Sinnes.</p>
+               <p>℣. <hi>Glory be to the Father,</hi> &amp;c.</p>
+               <p>℟. As it was, &amp;c.</p>
+            </div>
+            <div n="2" type="lesson">
+               <head>The ſecond Leſſon.</head>
+               <p>(<hi>At Morn.</hi> S. LUKE. XXI. <hi>to</hi> ℣. XXXVII.)</p>
+               <p>(<hi>At Even.</hi> 1. S. PET. II. <hi>the whole Chapter.</hi>)</p>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>In ſtead of the <hi>Benedictus,</hi> and <hi>Nunc dimittis.</hi>
+                  </p>
+               </argument>
+               <head>PSAL. CXXIII.</head>
+               <p n="1">1. <hi>Vnto Thee lift I up mine Eyes; O Thou that dwelleſt in the Heavens.</hi>
+               </p>
+               <p n="2">2. Behold, even as the eyes of ſervants look unto the hand of their Maſters, and as eyes of a maiden unto the hand of her Miſtreſſe; even ſo our eyes waite upon the Lord our God, until He hath Mercy upon us.</p>
+               <p n="3">3. <hi>Have mercy upon us O Lord, have mercy upon us; for wee are utterly deſpiſed.</hi>
+               </p>
+               <p n="4">4. Our ſoule is filled with the ſcornfull reproof of the wealthy; and with the deſpitefulnes of the proud.</p>
+               <p>℣. <hi>Glory be to the Father,</hi> &amp;c.</p>
+               <p>℟. As it was in the beginning, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:165611:7"/>
+               <argument>
+                  <p>After the <hi>Creed,</hi> and the <hi>Lords Prayer, &amp;c.</hi>
+                  </p>
+               </argument>
+               <div type="collect">
+                  <head>THE FIRST COLLECT. <hi>At Morning Prayer.</hi>
+                  </head>
+                  <p>LORD, wee beſeech Thee, let thy continuall pit<g ref="char:EOLhyphen"/>ty cleanſe and defend thy Church: and becauſe it cannot continue in ſafety without thy ſuccour, pre<g ref="char:EOLhyphen"/>ſerve it evermore by thy help and goodnes, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="collect">
+                  <head>THE FIRST COLLECT. <hi>At Evening Prayer.</hi>
+                  </head>
+                  <p>LORD, raiſe up (wee pray Thee) thy Power, &amp; come among us; &amp; with great Might ſuccour us; that whereas through our ſinnes &amp; wickednes wee be ſore let &amp; hindred, thy bountifull Grace and Mercy (through the Satisfaction of thy Sonne our Lord) may ſpeedily deliver us; to Whom with Thee, &amp; the Holy Ghoſt, be all Honour &amp; Glory world without end. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>After the <hi>Letany,</hi> and the <hi>Prayer</hi> [Wee humbly beſeech Thee, &amp;c.] <hi>At Morning.</hi> And after the
+<hi>Collect.</hi> [Lighten our darknes, &amp;c.] <hi>At Evening.</hi>
+                  </p>
+               </argument>
+               <p>℣. O Lord, guard the Perſon of thy Ser<g ref="char:EOLhyphen"/>vant
+<hi>CHARLES</hi> our King.</p>
+               <p>
+                  <pb n="13" facs="tcp:165611:7"/>℟. <hi>Who putteth his truſt in Thee.</hi>
+               </p>
+               <p>℣. Send Him, and all that are Loyall to him, help from thy Holy Place.</p>
+               <p>℟. <hi>And evermore mightily defend them.</hi>
+               </p>
+               <p>℣. Confound the deſignes of all that riſe up, or conſpire againſt Him.</p>
+               <p>℟. <hi>And let no wicked Hand come neere to hurt him.</hi>
+               </p>
+               <p>℣. O Lord heare our Prayer.</p>
+               <p>℟. <hi>And let our Cry come unto The.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>The Prayer.</head>
+               <p>ALMIGHTY Lord God, the Ruler of Princes when they are in their Thrones, and their Pro<g ref="char:EOLhyphen"/>tector when they are in Perill; Looke down merci<g ref="char:EOLhyphen"/>fully from Heaven, wee moſt humbly beſeech Thee, upon the many and great Troubles of our Gracious Soveraigne. Defend his Perſon from all dangers both by Sea and Land. Bleſſe his Counſels. Proſper his Enterpriſes. And command thine Angels ſo to pitch their Tents round about Him, that He may be preſerved from the hands of all that ſeeke his Hurt, &amp; may be ſpeedily eſtablished in the juſt Rights of his Throne, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O LORD our heavenly Father, high and mighty King of Kings, &amp;c.</p>
+            </div>
+            <argument>
+               <p>With the Other <hi>Prayers,</hi> At the End of the
+<hi>Letanie.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="form_of_service">
+            <pb n="14" facs="tcp:165611:8"/>
+            <head>AT THE SECOND SERVICE.</head>
+            <div type="part">
+               <argument>
+                  <p>Immediately after. THE X. COMMANDEMENTS.</p>
+               </argument>
+               <p n="1">
+                  <note n="✚" place="margin">Theſe <hi>Verſes,</hi> and the <hi>Prayer</hi> following, are to be ſaid at <hi>E<g ref="char:EOLhyphen"/>vening,</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Collect,</hi> for the <hi>Queen,</hi> and the <hi>Royall Iſſue.</hi>]</note>
+                  <hi>DEliver the King O Lord from the Evill Man; and preſerve Him from the wicked Doers.</hi>
+               </p>
+               <p n="2">2. Which imagine Miſchief in their hearts; and ſtirre up Strife all the day long.</p>
+               <p n="3">3. <hi>Keep Him O Lord from the hands of the ungodly; and from the wicked that are purpoſed to overthrow his goings.</hi>
+               </p>
+               <p n="4">4. The proud have laid a ſnare for Him; they have ſpreed a Net abroad with cords, and ſet Trapps in his way.</p>
+               <p n="5">5. <hi>But O Lord God, Thou Strength of his health; doe Thou cover his head in the Day of Battail.</hi>
+               </p>
+               <p n="6">6. Let not the ungodly have his deſire ô Lord; let not his miſcheivous Imagination proſper, leaſt he be too proud.</p>
+               <p n="7">7. <hi>Deliver the King from his Enemies O Lord; for he flieth unto Thee to hide Him.</hi>
+               </p>
+               <p n="8">8. O let Him heare thy loving kindnes betimes in the Morning, for in Thee is his truſt; shew Thou Him the way that He should walk in, for He lifteth up his Soule unto Thee.</p>
+            </div>
+            <div type="prayer">
+               <pb n="15" facs="tcp:165611:8"/>
+               <head>Let us pray.</head>
+               <p>O GOD of all Might and Wiſedome, by whom alone Kings reigne, and People are made obe<g ref="char:EOLhyphen"/>dient unto Them; wee moſt humbly beſeech Thee, to defend thine own Ordinance in the Defence of our diſtreſſed King; that as Thou haſt given Him a moſt juſt Title to his Father's Kingdomes, ſo Thou would'ſt be pleaſed ſpeedily to bring Him unto the rightfull Poſſeſſion of them. And to that end, that Thou would'ſt vouchſafe to put the Spirit of Counſel, of Courage, &amp; of Unity upon them that are loyall to Him. And for thoſe that either openly oppoſe Him, or thoſe Strang Children that diſſemble with Him, that Thou would'ſt infatuate their Counſels, and blaſt their Endeavours, turning their hearts both to Thee their God, and to the King. Which wee beſeech Thee to grant for Ieſus Chriſt his ſake, our Lord and only Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="epistle">
+               <head>THE EPISTLE
+<bibl>1. TIMOTH. 11.1.</bibl>
+               </head>
+               <p>I EXHORT therfore, that firſt of all Supplications, Prayers, Interceſſions, and Giving of Thanks be made for all Men: for KINGS, and for All that are in Authoritie; that wee may lead a quiet and a peaceable life in all Godlines and Honeſtie. For this is good and acceptable in the ſight of God our Saviour; Who will have all Men to be ſaved, and to come unto the know<g ref="char:EOLhyphen"/>ledge of the Truth. For there is one God, &amp; one Me<g ref="char:EOLhyphen"/>diator betweene God &amp; Men, the Man CHRIST IESVS.<pb n="16" facs="tcp:165611:9"/>Who gave Himſelf a Ranſome for All, to be teſti<g ref="char:EOLhyphen"/>fied in due time. Whereunto I am ordeined a Prea<g ref="char:EOLhyphen"/>cher &amp; an Apoſtle, (I ſpeak the Truth in CHRIST, &amp; lie not) a Teacher of the Gentiles in Faith &amp; Verity. I will therfore that Men pray every where, lifting up holy hands, without wrath and doubting.</p>
+            </div>
+            <div type="gospel">
+               <head>The Goſpel.
+<bibl>S. MARK. X. ℣. XXVIII.</bibl>
+               </head>
+               <p>THEN PETER began to ſay unto Him, Loe, wee have left all, and followed Thee. And IESVS anſwered and ſaid, Verily I ſay unto you, There is no Man that hath left houſe, or brethren, or ſiſters, or father, or mother, or wife, or children, or lands for my ſake &amp; the Goſpels, but he shall receive an hundred fold now in his time, houſes, &amp; brethren, &amp; ſiſters, &amp; mothers, &amp; children, &amp; lands, with perſecutions; &amp; in the world to come Eternall Life. But Many that are firſt, shalbe Laſt; &amp; the Laſt firſt.</p>
+            </div>
+            <div type="part">
+               <argument>
+                  <p>After the <hi>Creed,</hi> and the <hi>Prayer</hi> for
+<hi>Chriſt's Church.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <note place="margin">This is alſo to be ſaid at
+<hi>Evening,</hi> immediate<g ref="char:EOLunhyphen"/>ly before <hi>S. Chry<g ref="char:EOLhyphen"/>ſoſtome's Prayer.</hi>
+                  </note>GRANT, Mercifull Lord, thy Protection, and thy Bleſſing to our Gracious KING: that in all his wayes He may be defended from all Kinds of Perils, &amp; may ſo proſper in his Endeavours, that all his people may, by the might of Thy Hand, be brought to obedience vnder Him, to ſerve &amp; honour Thee, through IESVS CHRIST our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <argument>
+               <p>
+                  <hi>The Bleſsing;</hi> THE PEACE or GOD, &amp;c.</p>
+            </argument>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
